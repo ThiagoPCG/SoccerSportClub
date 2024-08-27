@@ -1,0 +1,97 @@
+
+.imagem{
+    height: 600px;
+    width: 1500px;
+    padding-top: 20px;
+}
+
+
+main{
+    background-color: #2C2A2A;
+} 
+
+form{
+    background-color: #2C2A2A;
+    padding-bottom: 10px;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    color: white;
+    margin-bottom: 3px;
+    position: relative;
+    right: 22%;
+    font-family: monospace;
+}
+input{
+    padding-top: 10px;
+    width: 1000px;
+    height: 60px;
+    background-color: rgb(218, 218, 218);
+}
+.submit{
+    margin-left: 900px;
+    margin-top: 50px;
+    width: 500px;
+    margin-bottom: 60px;
+    background-color: #EBFF00;
+    font-size: 40px;
+}
+.Snome{
+    margin-left: 75px;
+}
+.email{
+    margin-left: 20px;
+}
+.Csenha{
+    margin-left: 150px;
+}
+.data{
+    margin-left: 195px;
+}
+.img{
+    margin-left: 655px;
+    width: 600px;
+    margin-top: 50px;
+
+}
+.imgc{
+    background-color: #2C2A2A;
+}
+.Bimg{
+    margin-top: 50px;
+    width: 130px;
+    margin-bottom: 50px;
+    margin-right: 15px;
+}
+.imgP{
+    width: 90px;
+    position: relative;
+
+    left: 8%;
+}
+#inome{
+    font-size: 25px;
+    text-align: center;
+}
+#isobrenome{
+    font-size: 25px;
+    text-align: center;
+    
+}
+#iemail{
+    font-size: 25px;
+    text-align: center;
+}
+#isenha{
+    font-size: 25px;
+    text-align: center;
+}
+#iconfirmação{
+    font-size: 25px;
+    text-align: center;
+}
+#idata{
+    font-size: 25px;
+    text-align: center;
+}
